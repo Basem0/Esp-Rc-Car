@@ -27,7 +27,7 @@ Welcome to the RC Car ESP Control project! This repository contains the code for
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/your-username/rc-car-esp-control.git
+    git clone [https://github.com/your-username/rc-car-esp-control.git](https://github.com/Basem0/Esp-Rc-Car/blob/main/)
     ```
 
 2. Open the project in the Arduino IDE or PlatformIO.
