@@ -27,7 +27,7 @@ Welcome to the RC Car ESP Control project! This repository contains the code for
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone [https://github.com/your-username/rc-car-esp-control.git](https://github.com/Basem0/Esp-Rc-Car/blob/main/)
+    git clone [https://github.com/Basem0/Esp-Rc-Car/]
     ```
 
 2. Open the project in the Arduino IDE or PlatformIO.
@@ -46,16 +46,8 @@ For more detailed instructions and troubleshooting tips, check out the [Document
 
 Explore the [documentation](docs/README.md) for in-depth guides, troubleshooting tips, and additional resources.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contributing
-
-We welcome contributions from the community! Whether it's bug fixes, new features, or documentation improvements, your help is valuable. Please check our [Contribution Guidelines](CONTRIBUTING.md) for details on how to get involved.
-
 ## Contact
 
-For questions, suggestions, or just to say hi, feel free to contact us at rc-car-esp-control@example.com.
+For questions, suggestions, or just to say hi, feel free to contact us at basem010104@gmail.com.
 
 Happy driving!
